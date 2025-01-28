@@ -33,7 +33,7 @@ pip install python-telegram-bot
 
 3. Run the bot:
 ```bash
-python bot.py
+python validator_bot.py
 ```
 
 ## Validation Rules
